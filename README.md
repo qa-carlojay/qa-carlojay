@@ -30,15 +30,6 @@ I bridge the gap between manual chaos and automated efficiency. My focus is on b
 
 ---
 
-### ⚙️ My Workflow Philosophy
-
-* **Automation First:** If a task needs to be done more than twice, it deserves a script.
-* **Clean Architecture:** Favoring maintainability and scalability over "quick-fix" code.
-* **Proactive Reporting:** Keeping stakeholders informed through automated, high-density notifications.
-* **Minimalist Setup:** Focused on ergonomic, distraction-free environments and efficient EDC organization.
-
----
-
 ### 🎯 Current Focus
 
 * **Advanced Playwright:** Mastering API mocking and visual regression testing.
