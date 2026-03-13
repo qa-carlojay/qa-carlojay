@@ -1,38 +1,53 @@
-# Hi there, I'm Carlo Jay Mojica 👋
+# Carlo Jay Mojica👋
 
 ### 🤖 Automation Engineer | QA Specialist | Workflow Optimizer
-I specialize in bridging the gap between manual chaos and automated efficiency. My focus is on building robust testing frameworks and custom tools that save hours of manual effort.
+I bridge the gap between manual chaos and automated efficiency. My focus is on building robust testing frameworks and custom internal tools that eliminate repetitive tasks and provide data-driven insights.
+
+---
+
+### 🏆 Professional Impact (Internal Projects)
+
+#### **Mantis Extractionator** (Proprietary Tool)
+* **The Problem:** Manual data exports for the **ePMS 2.1 Enhancement** project were taking 30+ minutes daily and were prone to human error.
+
+* **The Solution:** Developed a Python-based ETL middleware that interfaces with the MantisBT REST API to automate data fetching and transformation.
+
+* **The Result:** Reduced manual reporting effort to **0%** and enabled real-time status dashboards via Microsoft Teams Adaptive Cards.
+
+#### **Playwright Automation Chassis**
+* **The Problem:** Scaling automation across multiple projects often leads to fragmented and unmaintainable codebases.
+
+* **The Solution:** Built a "Template Repository" using TypeScript and the Page Object Model (POM) for 1-click project initialization.
+
+* **The Result:** Established a standardized framework for the team, ensuring consistency and faster script development.
 
 ---
 
 ### 🛠️ Technical Toolkit
+
 * **Languages:** Python, TypeScript, JavaScript, Batch Scripting
-* **Automation:** Playwright, Selenium, Power Automate, JMeter, Postman
-* **Tools:** Git, GitHub Actions, CLI Tooling
+* **Automation:** Playwright, Power Automate, Postman, JMeter
 
 ---
 
-### 🚀 Featured Projects
+### ⚙️ My Workflow Philosophy
 
-#### [Mantis Extractionator](link-to-repo)
-**The Problem:** Manual data exports from MantisBT were taking 30+ minutes daily and were prone to human error.
-
-**The Solution:** Built a Python-based GUI tool that automates data fetching, handles versioned archiving, and pushes real-time Adaptive Card reports to Microsoft Teams.
-**Result:** Reduced manual effort to 0% and improved reporting accuracy.
-
-#### [Playwright Automation Chassis](link-to-repo)
-**The Problem:** Scaling automation across multiple projects often leads to fragmented codebases.
-
-**The Solution:** Developed a "Template Repository" using TypeScript and the Page Object Model (POM) to allow for 1-click project initialization with built-in reporting and failure-tracing.
+* **Automation First:** If a task needs to be done more than twice, it deserves a script.
+* **Clean Architecture:** Favoring maintainability and scalability over "quick-fix" code.
+* **Proactive Reporting:** Keeping stakeholders informed through automated, high-density notifications.
+* **Minimalist Setup:** Focused on ergonomic, distraction-free environments and efficient EDC organization.
 
 ---
 
-### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[qa-carlojay]&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[qa-carlojay]&layout=compact&theme=tokyonight)
+### 🎯 Current Focus
+
+* **Advanced Playwright:** Mastering API mocking and visual regression testing.
+* **CI/CD Integration:** Streamlining automated test execution within delivery pipelines.
+* **Tooling:** Refining a collection of CLI "helper" tools to empower my team.
 
 ---
 
 ### 📫 Connect with me
-* **LinkedIn:** [linkedin.com/in/yourprofile]((https://www.linkedin.com/in/carlojaymojica/))
-* **Portfolio Philosophy:** "Simple, Functional, and Scalable."
+
+* **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/carlojaymojica/)
+* **Philosophy:** "Simple, Functional, and Scalable."
