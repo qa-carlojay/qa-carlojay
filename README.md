@@ -49,5 +49,5 @@ I bridge the gap between manual chaos and automated efficiency. My focus is on b
 
 ### 📫 Connect with me
 
-* **LinkedIn:** [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/carlojaymojica/)](https://www.linkedin.com/in/carlojaymojica/)
+* **LinkedIn:** (https://www.linkedin.com/in/carlojaymojica/)
 * **Philosophy:** "Simple, Functional, and Scalable."
