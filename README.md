@@ -8,7 +8,7 @@ I bridge the gap between manual chaos and automated efficiency. My focus is on b
 ### 🏆 Professional Impact (Internal Projects)
 
 #### **Mantis Extractionator** (Proprietary Tool)
-* **The Problem:** Manual data exports for the **ePMS 2.1 Enhancement** project were taking 30+ minutes daily and were prone to human error.
+* **The Problem:** Manual data exports for every project were taking 30+ minutes daily and were prone to human error.
 
 * **The Solution:** Developed a Python-based ETL middleware that interfaces with the MantisBT REST API to automate data fetching and transformation.
 
